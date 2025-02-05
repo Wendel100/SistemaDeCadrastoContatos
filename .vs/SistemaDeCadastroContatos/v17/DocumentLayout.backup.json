@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\migrations\\bancocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:migrations\\bancocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\migrations\\20250121145345_tabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:migrations\\20250121145345_tabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|c:\\users\\darkr\\documents\\projetos de progamacao\\sistemadecadastrocontatos\\controllers\\db\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AED9A31-769D-4358-A6BB-F407B2AD7F1D}|SistemaDeCadastroContatos.csproj|solutionrelative:controllers\\db\\contatocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T15:02:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T15:01:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BancoContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BancoContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BancoContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:01:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:01:06.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Models\\Contato.cs",
+              "RelativeToolTip": "Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:59:02.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContatoContext.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Controllers\\Db\\ContatoContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\Db\\ContatoContext.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Controllers\\Db\\ContatoContext.cs",
+              "RelativeToolTip": "Controllers\\Db\\ContatoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:58:46.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250121145345_TabelaContatos.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Migrations\\20250121145345_TabelaContatos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250121145345_TabelaContatos.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Migrations\\20250121145345_TabelaContatos.cs",
+              "RelativeToolTip": "Migrations\\20250121145345_TabelaContatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:53:46.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:36:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Data\\BancoContext.cs",
+              "RelativeToolTip": "Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:14:38.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Users\\darkr\\Documents\\Projetos de Progamacao\\SistemaDeCadastroContatos\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "Controllers\\ContatosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:04:04.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
